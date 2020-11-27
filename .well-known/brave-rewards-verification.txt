@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: yutan9.github.io
-Token: 84559c35c3312a5d8312f7f73d491ee516a93a0cb6a999a17900c77348e857f3

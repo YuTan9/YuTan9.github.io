@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.6b2ffb0f.chunk.css",
-    "main.js": "/static/js/main.8a151e03.chunk.js",
-    "main.js.map": "/static/js/main.8a151e03.chunk.js.map",
+    "main.css": "/static/css/main.54b7c4fd.chunk.css",
+    "main.js": "/static/js/main.3d32851f.chunk.js",
+    "main.js.map": "/static/js/main.3d32851f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.22acf320.js",
     "runtime-main.js.map": "/static/js/runtime-main.22acf320.js.map",
     "static/css/2.4153788a.chunk.css": "/static/css/2.4153788a.chunk.css",
-    "static/js/2.32b32529.chunk.js": "/static/js/2.32b32529.chunk.js",
-    "static/js/2.32b32529.chunk.js.map": "/static/js/2.32b32529.chunk.js.map",
+    "static/js/2.03f56a9c.chunk.js": "/static/js/2.03f56a9c.chunk.js",
+    "static/js/2.03f56a9c.chunk.js.map": "/static/js/2.03f56a9c.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.4153788a.chunk.css.map": "/static/css/2.4153788a.chunk.css.map",
-    "static/css/main.6b2ffb0f.chunk.css.map": "/static/css/main.6b2ffb0f.chunk.css.map",
-    "static/js/2.32b32529.chunk.js.LICENSE.txt": "/static/js/2.32b32529.chunk.js.LICENSE.txt",
+    "static/css/main.54b7c4fd.chunk.css.map": "/static/css/main.54b7c4fd.chunk.css.map",
+    "static/js/2.03f56a9c.chunk.js.LICENSE.txt": "/static/js/2.03f56a9c.chunk.js.LICENSE.txt",
     "static/media/01.1de6caef.png": "/static/media/01.1de6caef.png",
     "static/media/01.a79bdf2f.jpg": "/static/media/01.a79bdf2f.jpg",
     "static/media/02.1bf22a27.JPG": "/static/media/02.1bf22a27.JPG",
@@ -50,6 +50,12 @@
     "static/media/29.3e84d984.jpg": "/static/media/29.3e84d984.jpg",
     "static/media/30.0eaf7f28.JPG": "/static/media/30.0eaf7f28.JPG",
     "static/media/31.d96b072f.JPG": "/static/media/31.d96b072f.JPG",
+    "static/media/Winbond_NER.7e91462d.jpg": "/static/media/Winbond_NER.7e91462d.jpg",
+    "static/media/Winbond_NER_F1.475bb9d7.png": "/static/media/Winbond_NER_F1.475bb9d7.png",
+    "static/media/Winbond_PM_Neo4j.3d6a31f8.png": "/static/media/Winbond_PM_Neo4j.3d6a31f8.png",
+    "static/media/Winbond_PM_Radar.d4c9dcca.jpg": "/static/media/Winbond_PM_Radar.d4c9dcca.jpg",
+    "static/media/Winbond_PM_Treemap.a1355a04.jpg": "/static/media/Winbond_PM_Treemap.a1355a04.jpg",
+    "static/media/Winbond_PM_cluster.297209b1.jpg": "/static/media/Winbond_PM_cluster.297209b1.jpg",
     "static/media/badouzi.9c1f732f.jpg": "/static/media/badouzi.9c1f732f.jpg",
     "static/media/chiayi.d8a904bd.jpg": "/static/media/chiayi.d8a904bd.jpg",
     "static/media/email.a8e09c46.png": "/static/media/email.a8e09c46.png",
@@ -62,8 +68,8 @@
   "entrypoints": [
     "static/js/runtime-main.22acf320.js",
     "static/css/2.4153788a.chunk.css",
-    "static/js/2.32b32529.chunk.js",
-    "static/css/main.6b2ffb0f.chunk.css",
-    "static/js/main.8a151e03.chunk.js"
+    "static/js/2.03f56a9c.chunk.js",
+    "static/css/main.54b7c4fd.chunk.css",
+    "static/js/main.3d32851f.chunk.js"
   ]
 }

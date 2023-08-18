@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.8e1b135b.chunk.css",
-    "main.js": "/static/js/main.cf95f986.chunk.js",
-    "main.js.map": "/static/js/main.cf95f986.chunk.js.map",
+    "main.css": "/static/css/main.7c5aeb7e.chunk.css",
+    "main.js": "/static/js/main.21c0303f.chunk.js",
+    "main.js.map": "/static/js/main.21c0303f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.22acf320.js",
     "runtime-main.js.map": "/static/js/runtime-main.22acf320.js.map",
     "static/css/2.4153788a.chunk.css": "/static/css/2.4153788a.chunk.css",
-    "static/js/2.0f41a856.chunk.js": "/static/js/2.0f41a856.chunk.js",
-    "static/js/2.0f41a856.chunk.js.map": "/static/js/2.0f41a856.chunk.js.map",
+    "static/js/2.627bb724.chunk.js": "/static/js/2.627bb724.chunk.js",
+    "static/js/2.627bb724.chunk.js.map": "/static/js/2.627bb724.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.4153788a.chunk.css.map": "/static/css/2.4153788a.chunk.css.map",
-    "static/css/main.8e1b135b.chunk.css.map": "/static/css/main.8e1b135b.chunk.css.map",
-    "static/js/2.0f41a856.chunk.js.LICENSE.txt": "/static/js/2.0f41a856.chunk.js.LICENSE.txt",
+    "static/css/main.7c5aeb7e.chunk.css.map": "/static/css/main.7c5aeb7e.chunk.css.map",
+    "static/js/2.627bb724.chunk.js.LICENSE.txt": "/static/js/2.627bb724.chunk.js.LICENSE.txt",
     "static/media/01.1de6caef.png": "/static/media/01.1de6caef.png",
     "static/media/01.a79bdf2f.jpg": "/static/media/01.a79bdf2f.jpg",
     "static/media/02.1bf22a27.JPG": "/static/media/02.1bf22a27.JPG",
@@ -62,6 +62,8 @@
     "static/media/dc.ae970c7f.jpeg": "/static/media/dc.ae970c7f.jpeg",
     "static/media/email1.2ff3b6d5.png": "/static/media/email1.2ff3b6d5.png",
     "static/media/App.css": "/static/media/header-bg.f7337b81.jpg",
+    "static/media/profile.4c19f3f6.jpg": "/static/media/profile.4c19f3f6.jpg",
+    "static/media/timer.e8018ee8.jpg": "/static/media/timer.e8018ee8.jpg",
     "static/media/wangyovalley.ff1ada18.jpg": "/static/media/wangyovalley.ff1ada18.jpg",
     "static/media/yangmingshan.0871fc7c.jpg": "/static/media/yangmingshan.0871fc7c.jpg",
     "static/media/yangmingshan2.9636df71.jpg": "/static/media/yangmingshan2.9636df71.jpg"
@@ -69,8 +71,8 @@
   "entrypoints": [
     "static/js/runtime-main.22acf320.js",
     "static/css/2.4153788a.chunk.css",
-    "static/js/2.0f41a856.chunk.js",
-    "static/css/main.8e1b135b.chunk.css",
-    "static/js/main.cf95f986.chunk.js"
+    "static/js/2.627bb724.chunk.js",
+    "static/css/main.7c5aeb7e.chunk.css",
+    "static/js/main.21c0303f.chunk.js"
   ]
 }
